@@ -1,0 +1,10 @@
+Main : Status of thread 0 : NEW
+Main : Status of thread 1 : NEW
+Main : Status of thread 2 : NEW
+Main : Status of thread 3 : NEW
+Main : Status of thread 4 : NEW
+Main : Status of thread 5 : NEW
+Main : Status of thread 6 : NEW
+Main : Status of thread 7 : NEW
+Main : Status of thread 8 : NEW
+Main : Status of thread 9 : NEW
